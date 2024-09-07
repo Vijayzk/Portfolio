@@ -29,7 +29,7 @@ const Home = () => {
                             </span>
                         </div>
                         <br />
-                        <p className='text-sm md:text-md text-justify'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum ex deserunt officiis animi culpa ipsum quidem omnis illo, id hic! Quasi vel illum id quo deserunt cupiditate, itaque, suscipit voluptatum autem soluta. Alias quisquam unde harum animi vitae ratione odio saepe aut laudantium repudiandae corrupti quas sunt, esse inventore, odit aspernatur distinctio magnam! A atque ab, animi ratione exercitationem tempora eaque! Quae vitae maxime quam. Temporibus provident rem unde aut sequi debitis numquam tempora eligendi accusamus. Et voluptates, sunt porro voluptatum distinctio at accusamus iste harum aliquam deserunt cupiditate iure voluptate.</p>
+                        <p className='text-sm md:text-md text-justify'>Hello , my name is Vijay Anand and I am a BCA (Bachelor's of Computer Application) graduate . I am a 3rd year student seeking for opportunity in Full stack development or Backend development . I know basics of Frontend development and can make responsive websites also.I am a dedicated and results-oriented individual who thrives in fast-paced environments and enjoys collaborating with diverse teams.I believe in continuous learning and staying updated with industry trends to ensure I bring the most value to my work.</p>
                         <br />
                         {/* Social media icons */}
                         <div className='flex flex-col md:flex-row items-center space-y-6 md:space-y-0 md:justify-between'>
