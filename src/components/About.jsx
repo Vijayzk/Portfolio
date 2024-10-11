@@ -3,7 +3,7 @@ import React from 'react'
 const About = () => {
     return (
         <>
-            <div name="About" className='max-w-screen-2xl container mx-auto px-4 my-20 md:px-20 space-y-4'>
+            <div name="About" className='max-w-screen-2xl container pt-10 md:pt-14 mx-auto px-4 md:pb-20 md:px-20 space-y-4'>
                 <div className='space-y-6 mt-12'>
                     <h1 className='text-3xl font-bold mb-5'>About</h1>
                     <p>Hello , I'm Vijay , a passonate web developer with a keen eye for MERN Stack. With a background in IT, I strive to create impactful and visually stunning software solution that leave a lasting impression.</p>

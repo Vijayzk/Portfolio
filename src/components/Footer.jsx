@@ -18,7 +18,7 @@ const Footer = () => {
                             <a href="https://www.instagram.com/" target="_blank"><FaInstagram className='hover:scale-110 duration-200' size={24}/></a>
                         </div>
                         <div className="mt-8 border-t border-gray-700 flex flex-col items-center">
-                            <p className='mt-10 text-sm'>© 2024 Your Company. All rights reserved.</p>
+                            <p className='mt-10 text-sm'>All rights reserved © 2024.</p>
                         </div>
                     </div>
                 </div>

@@ -6,3 +6,30 @@
 body{
     font-family: "Poppins", sans-serif;
 }
+
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.dark .nav-bg{
+   background-color: black;
+}
+
+.nav-bg{
+    background-color: white;
+}
+
+.dark .conatact-bg{
+    background-color: black;
+    border:2px solid white;
+}
+
+.dark .contact-btn{
+    background-color: white;
+    color: black;
+}
+
+.dark .contact-btn:hover{
+    background-color: antiquewhite;
+}

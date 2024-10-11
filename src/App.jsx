@@ -9,20 +9,14 @@ import { Toaster } from 'react-hot-toast';
 
 
 function App() {
-  
-  
-
   return (
     <>
-
-      <div>
-        <Navbar />
-        <Home />
-        <About />
-        <Project />
-        <Contact />
-        <Footer />
-      </div>
+      <Navbar />
+      <Home />
+      <About />
+      <Project />
+      <Contact />
+      <Footer />
       <Toaster />
     </>
   )
