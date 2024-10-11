@@ -27,12 +27,7 @@ const Home = () => {
                                 loop={true} />
                             </span>
                         </div>
-                        <br />
-<<<<<<< HEAD
                         <p className='text-sm md:text-md text-justify'>Hello , my name is Vijay Anand and I am a BCA (Bachelor's of Computer Application) graduate . I am a 3rd year student seeking for opportunity in Full stack development or Backend development . I know Frontend development and can make responsive websites also I am a dedicated and results-oriented individual who thrives in fast-paced environments and enjoys collaborating with diverse teams.I believe in continuous learning and staying updated with industry trends to ensure I bring the most value to my work.</p>
-=======
-                        <p className='text-sm md:text-md text-justify'>Hello , my name is Vijay Anand and I am a BCA (Bachelor's of Computer Application) graduate . I am a 3rd year student seeking for opportunity in Full stack development or Backend development . I know basics of Frontend development and can make responsive websites also.I am a dedicated and results-oriented individual who thrives in fast-paced environments and enjoys collaborating with diverse teams.I believe in continuous learning and staying updated with industry trends to ensure I bring the most value to my work.</p>
->>>>>>> 0bb9de30a24e98541c287fa7723b2be5793c44ba
                         <br />
                         {/* Social media icons */}
                         <div className='flex flex-col md:flex-row items-center space-y-6 md:space-y-0 md:justify-between md:pt-10 pt-4'>
